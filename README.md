@@ -1,8 +1,8 @@
 # Lab 21 — Phân tích rủi ro AI qua case study thực tế
 
 - Họ và tên: Nguyễn Khánh Linh
-- MSSV / mã học viên: [Điền mã]
-- Lớp: [Điền lớp]
+- MSSV / mã học viên: 2A202602409
+- Lớp: Track 1
 - Ngành đã chọn: HR / tuyển dụng
 
 ### 1. Industry Risk Snapshot
