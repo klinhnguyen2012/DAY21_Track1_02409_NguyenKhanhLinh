@@ -1,6 +1,6 @@
 # Lab 21 — Phân tích rủi ro AI qua case study thực tế
 
-- Họ và tên: [Điền họ tên]
+- Họ và tên: Nguyễn Khánh Linh
 - MSSV / mã học viên: [Điền mã]
 - Lớp: [Điền lớp]
 - Ngành đã chọn: HR / tuyển dụng
